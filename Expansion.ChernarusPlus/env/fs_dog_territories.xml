@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4294467716">
+        <zone name="AnimalFSDog" smin="0" smax="1" dmin="3" dmax="6" x="2121.69" z="13347.3" r="150"/>
+        <zone name="AnimalFSDog" smin="0" smax="1" dmin="3" dmax="6" x="1345.75" z="13362.2" r="120"/>
+        <zone name="AnimalFSDog" smin="0" smax="1" dmin="3" dmax="6" x="2468.63" z="14503.3" r="150"/>
+        <zone name="AnimalFSDog" smin="0" smax="1" dmin="3" dmax="6" x="2161.56" z="3321.07" r="90"/>
+        <zone name="AnimalFSDog" smin="0" smax="1" dmin="3" dmax="8" x="13815.3" z="11171.7" r="80"/>
+        <zone name="AnimalFSDog" smin="0" smax="1" dmin="3" dmax="6" x="952.5" z="14227.5" r="150"/>
+        <zone name="AnimalFSDog" smin="0" smax="1" dmin="3" dmax="6" x="2985" z="14002.5" r="150"/>
+        <zone name="AnimalFSDog" smin="0" smax="1" dmin="3" dmax="6" x="641.25" z="13605" r="180"/>
+        <zone name="AnimalFSDog" smin="0" smax="1" dmin="3" dmax="6" x="2675" z="13595" r="180"/>
+        <zone name="AnimalFSDog" smin="0" smax="1" dmin="3" dmax="6" x="8425" z="14682.5" r="150"/>
+        <zone name="AnimalFSDog" smin="0" smax="1" dmin="3" dmax="6" x="7382.5" z="14887.5" r="150"/>
+        <zone name="AnimalFSDog" smin="0" smax="1" dmin="4" dmax="8" x="7682.5" z="14170" r="200"/>
+    </territory>
+</territory-type>

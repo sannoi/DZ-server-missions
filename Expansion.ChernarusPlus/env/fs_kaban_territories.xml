@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4288444840">
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="2875.44" z="14397.3" r="220"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="1690.75" z="13178.4" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="2" dmax="5" x="934.88" z="13220.8" r="180"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="3" dmax="6" x="2161.56" z="3321.07" r="90"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="3" dmax="6" x="13815.3" z="11171.7" r="80"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="1882.5" z="14460" r="180"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="8115" z="14070" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="8070" z="15045" r="180"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="7370" z="14532.5" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="10960" z="13000" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="11160" z="11035" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="9985" z="11275" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="10760" z="9510" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="7395" z="10535" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="10915" z="8270" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="3695" z="11875" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="3685" z="10255" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="2620" z="11745" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="1595" z="10910" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="960" z="11870" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="2280" z="9980" r="250"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="1995" z="8680" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="2510" z="7840" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="525" z="8190" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="2175" z="6430" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="2910" z="5900" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="1345" z="5800" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="4870" z="13980" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="5710" z="14555" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="4025" z="14375" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="10135" z="12600" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="12165" z="13175" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="10440" z="13005" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="8845" z="8480" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="7855" z="9395" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="7005" z="5437.5" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="7110" z="6247.5" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="5377.5" z="6232.5" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="5962.5" z="6922.5" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="6540" z="5932.5" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="6277.5" z="4222.5" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="7852.5" z="4582.5" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="4555" z="5190" r="200"/>
+        <zone name="AnimalFSKaban" smin="0" smax="1" dmin="1" dmax="4" x="3950" z="4165" r="200"/>
+    </territory>
+</territory-type>
